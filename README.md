@@ -1,10 +1,24 @@
 [![MasterHead](assets/languages2.png)](https://bilal1203.github.io)
 <h1 align="center">👋 Hey there, Ahmad Bilal here :octocat:</h1>
 
+<div align="center">
+
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bilal1203.github.io) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadbilal1203/)&nbsp;&nbsp;
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ahmadbilal1203)&nbsp;&nbsp;
+[![DataCamp Badge](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com/portfolio/ahmadbilalchohan)&nbsp;&nbsp;
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahmad.bilal.chohan)&nbsp;&nbsp;
+[![DEV Badge](https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/bilal1203)&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ahmad.bilal.chohan@gmail.com)](mailto:ahmad.bilal.chohan@gmail.com)&nbsp;&nbsp;
+<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/clebioojunior)&nbsp;&nbsp; -->
+<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/clebioojunior)&nbsp;&nbsp; -->
+
+</div>
+
 <img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bilal1203&label=Profile%20Views&color=295564&style=flat&abbreviated=true" alt="bilal1203" /> 
+  <img src="https://komarev.com/ghpvc/?username=bilal1203&label=Profile%20Views&color=295564&style=for-the-badge&abbreviated=true" alt="bilal1203" /> 
 </p>
 
 - Thanks for dropping by! I'm a passionate Machine Learning Engineer and Data Scientist, dedicated to leveraging data to drive insights and tackle complex challenges. With a background in Mechanical Engineering and a Master's focus on autonomous vehicles and object detection using LiDAR, I've ventured into the realms of AI and NLP, exploring projects that push the boundaries of machine learning.
