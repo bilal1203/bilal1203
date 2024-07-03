@@ -22,4 +22,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilal1203&theme=react&background=003140&fire=ec9528&ring=ec9528&stroke=ec9528)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bilal1203&theme=react&bg_color=003140)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal1203&theme=algolia&no-frame=true&margin-h=15&margin-w=15&column=5" alt="bilal_1203" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal1203&theme=algolia&no-frame=true&margin-h=15&margin-w=15&column=8" alt="bilal_1203" /></a> </p>
