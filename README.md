@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bilal1203&label=Profile%20Views&base=1506&color=295564&style=flat&abbreviated=true" alt="bilal1203" /> 
+  <img src="https://komarev.com/ghpvc/?username=bilal1203&label=Profile%20Views&color=295564&style=flat&abbreviated=true" alt="bilal1203" /> 
 </p>
 
 - Thanks for dropping by! I'm a passionate Machine Learning Engineer and Data Scientist, dedicated to leveraging data to drive insights and tackle complex challenges. With a background in Mechanical Engineering and a Master's focus on autonomous vehicles and object detection using LiDAR, I've ventured into the realms of AI and NLP, exploring projects that push the boundaries of machine learning.
@@ -16,8 +16,8 @@
 - 📫 Connect with me on LinkedIn or explore my portfolio to delve deeper into my projects and insights. Looking forward to connecting and exchanging ideas!
 
 <br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilal1203&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilal1203&show_icons=true&theme=react)
+![GitHub Stats1](https://github-readme-stats.vercel.app/api?username=bilal1203&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal1203&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilal1203&theme=radical)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bilal1203&theme=react-dark)
