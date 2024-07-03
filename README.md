@@ -23,3 +23,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bilal1203&theme=react&bg_color=003140)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal1203&theme=algolia&no-frame=true&margin-h=15&margin-w=15&column=8" alt="bilal_1203" /></a> </p>
+
+Counting of visitors to this page in this section started from July 5, 2023
+
+<img src="https://count.getloli.com/get/@bilal1203.github.readme?theme=moebooru" alt="Visitors" />
