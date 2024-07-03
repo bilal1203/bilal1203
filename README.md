@@ -17,7 +17,7 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilal1203&show_icons=true&theme=react&bg_color=295564)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilal1203&show_icons=true&theme=react&bg_color=003140)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal1203&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilal1203&theme=radical)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bilal1203&theme=react-dark)
