@@ -18,7 +18,7 @@
 <img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bilal1203&label=Profile%20Views&color=295564&style=for-the-badge&abbreviated=true" alt="bilal1203" /> 
+  <img src="https://komarev.com/ghpvc/?username=bilal1203&label=Profile%20Views&color=295564&style=flat&abbreviated=true" alt="bilal1203" /> 
 </p>
 
 - Thanks for dropping by! I'm a passionate Machine Learning Engineer and Data Scientist, dedicated to leveraging data to drive insights and tackle complex challenges. With a background in Mechanical Engineering and a Master's focus on autonomous vehicles and object detection using LiDAR, I've ventured into the realms of AI and NLP, exploring projects that push the boundaries of machine learning.
