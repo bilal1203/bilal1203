@@ -16,7 +16,6 @@
 </div>
 
 <br>
-<br>
   
 <img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
 
