@@ -1,4 +1,4 @@
-[![MasterHead](assets/languages2.png)](https://csfelix.github.io)
+[![MasterHead](assets/languages2.png)](https://bilal1203.github.io)
 <h1 align="center">👋 Hey there, Ahmad Bilal here :octocat:</h1>
 
 <img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
@@ -27,3 +27,5 @@
 Counting of visitors to this page in this section started from July 3, 2024
 
 <img src="https://count.getloli.com/get/@bilal1203.github.readme?theme=moebooru" alt="Visitors" />
+
+[![MasterHead](assets/languages.png)](https://bilal1203.github.io)
