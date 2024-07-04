@@ -10,8 +10,6 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahmad.bilal.chohan)&nbsp;&nbsp;
 [![DEV Badge](https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/bilal1203)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ahmad.bilal.chohan@gmail.com)](mailto:ahmad.bilal.chohan@gmail.com)&nbsp;&nbsp;
-<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/clebioojunior)&nbsp;&nbsp; -->
-<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/clebioojunior)&nbsp;&nbsp; -->
 
 </div>
 
@@ -31,7 +29,32 @@
 
 - 📫 Connect with me on LinkedIn or explore my portfolio to delve deeper into my projects and insights. Looking forward to connecting and exchanging ideas!
 
-<br>
+<be>
+
+## Portfolio Contents
+1. [Computer Vision](#computer-vision)
+2. [Database Management](#database)
+3. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
+4. [Data Science Certification Guides](#data-science-certification-guides)
+5. [Data Science Toolkit](#data-science-tools)
+6. [Data Science in the Real World](#real-world-data-science)
+7. [Generative AI](#generative-ai)
+8. [Insights from Data Science Talks](#talks)
+9. [Machine Learning](#machine-learning)
+10. [MLOps](#mlops)
+11. [Natural Language Processing](#natural-language-processing)
+12. [Networks and Graphs](#networks-and-graphs)
+13. [Responsible AI](#responsible-ai)
+14. [Sports Analytics](#sports-analytics)
+15. [Visualization](#visualization)
+16. [Web Development](#web-development)
+17. [Web3 and Metaverse](#web3)
+18. [Writing for DataCamp](#writing-for-datacamp)
+19. [Writing Tips](#writing-tips)
+
+**Projects with :star: are my personal favourites, so do check them out!**
+
+___
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilal1203&show_icons=true&theme=react&bg_color=003140)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal1203&theme=react&bg_color=003140)
