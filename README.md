@@ -39,6 +39,10 @@
 
 <h2 align="left">🎓 Certifications</h2>
 
+| Title | Article |
+| --- | --- |
+| DataCamp Certifications[https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F] | [:link:](https://github.com) |
+
 ----
 
 <h2 align="left">📜 Portfolio Contents</h2>
