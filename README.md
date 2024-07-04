@@ -94,7 +94,7 @@
 
 <h3 align="left">🍺 Support Me</h3>
 <div align="center">
-  <a href="https://contra.com/_csfelix08_?utm_campaign=HireMeOnContra&utm_medium=7f7e2ac5-22dd-4496-8878-fc01b0288c54"><img src="https://contra.com/static/embed/media/hiremeoncontra-dark.png" alt="Hire me on Contra" height="50" width="210" /></a>
+  <a href=""><img src="https://contra.com/static/embed/media/hiremeoncontra-dark.png" alt="Hire me on Contra" height="50" width="210" /></a>
 </div>
 
 <br><br>
