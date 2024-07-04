@@ -31,37 +31,47 @@
 
 <be>
 
-## Portfolio Contents
-1. [Computer Vision](#computer-vision)
-2. [Database Management](#database)
-3. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
-4. [Data Science Certification Guides](#data-science-certification-guides)
-5. [Data Science Toolkit](#data-science-tools)
-6. [Data Science in the Real World](#real-world-data-science)
-7. [Generative AI](#generative-ai)
-8. [Insights from Data Science Talks](#talks)
-9. [Machine Learning](#machine-learning)
-10. [MLOps](#mlops)
-11. [Natural Language Processing](#natural-language-processing)
-12. [Networks and Graphs](#networks-and-graphs)
-13. [Responsible AI](#responsible-ai)
-14. [Sports Analytics](#sports-analytics)
-15. [Visualization](#visualization)
-16. [Web Development](#web-development)
-17. [Web3 and Metaverse](#web3)
-18. [Writing for DataCamp](#writing-for-datacamp)
-19. [Writing Tips](#writing-tips)
+<h3 align="left">📜 Portfolio Contents</h3>
+
+1. [Database Management](#database)
+2. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
+3. [Data Science Toolkit](#data-science-tools)
+4. [Data Science in the Real World](#real-world-data-science)
+5. [Machine Learning](#machine-learning)
+6. [MLOps](#mlops)
+7. [Natural Language Processing](#natural-language-processing)
+8. [Visualization](#visualization)
+9. [Web Development](#web-development)
 
 **Projects with :star: are my personal favourites, so do check them out!**
 
-___
+----
 
+<h3 align="left">📊 GitHub Analytics</h3>
+
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal1203&show_icons=true&theme=react&bg_color=003140" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal1203&theme=react&bg_color=003140" />
+  <br><br>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bilal1203&theme=react&bg_color=003140" />
+</div>
+
+----
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilal1203&show_icons=true&theme=react&bg_color=003140)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal1203&theme=react&bg_color=003140)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilal1203&theme=react&background=003140&fire=ec9528&ring=ec9528&stroke=ec9528)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bilal1203&theme=react&bg_color=003140)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilal1203&theme=react&background=003140&fire=ec9528&ring=ec9528&stroke=ec9528)
+-->
+
+<h3 align="left">🏆 Trophies</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal1203&theme=algolia&no-frame=true&margin-h=15&margin-w=15&column=8" alt="bilal_1203" /></a> </p>
+
+----
 
 Counting of visitors to this page in this section started from July 3, 2024
 
