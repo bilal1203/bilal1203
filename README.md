@@ -63,7 +63,7 @@
 
 ----
 
-<h3 align="left">📊 GitHub Analytics</h3>
+<h3 align="left">🔥 GitHub Streak</h3>
 
 <br>
 
@@ -71,13 +71,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal1203&theme=react&background=003140&fire=ec9528&ring=ec9528&stroke=ec9528" />
 </div>
 
-
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilal1203&show_icons=true&theme=react&bg_color=003140)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal1203&theme=react&bg_color=003140)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bilal1203&theme=react&bg_color=003140)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilal1203&theme=react&background=003140&fire=ec9528&ring=ec9528&stroke=ec9528)
 -->
+----
 
 
 <h3 align="left">🏆 Trophies</h3>
