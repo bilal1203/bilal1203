@@ -47,7 +47,7 @@
 **Projects with :star: are my personal favourites, so do check them out!**
 
 <a name="machine-learning"></a>
-## Machine Learning :slot_machine:
+<h3 align="left">:slot_machine: Machine Learning</h3>
 | Title | Article | Repo |
 | --- | --- | --- |
 | Exploring Condominium Rental Prices with Web Scraping and Exploratory Data Analysis | [:link:](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
@@ -65,7 +65,7 @@
 
 
 <a name="natural-language-processing"></a>
-## Natural Language Processing :bookmark_tabs:
+<h3 align="left">:bookmark_tabs: Natural Language Processing</h3>
 | Title | Article | Repo |
 | --- | --- | --- |
 | COVID-19 Vaccine — What’s the Public Sentiment? | [:link:](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99?sk=614cb3f0f8b00d03240f0e439260e479) | [:link:](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
@@ -73,7 +73,7 @@
 
 
 <a name="database"></a>
-## Database Management :file_cabinet:   
+<h3 align="left">:file_cabinet: Database Management</h3>
 | Title | Article | Repo |
 | --- | --- | --- |    
 | :star: Definitive Guide to Creating a SQL Database on Cloud with AWS and Python | [:link:](https://towardsdatascience.com/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2?sk=be354d077fffa25b2eb1e59dd1dd1d94) | [:link:](https://github.com/kennethleungty/AWS-RDS-MySQL-Python) | 
@@ -81,7 +81,7 @@
 
 
 <a name="data-extraction-and-web-scraping"></a>
-## Data Extraction and Web Scraping :toolbox:
+<h3 align="left">:toolbox: Data Extraction and Web Scraping</h3>
 | Title | Article | Repo |
 | --- | --- | --- |
 | Using OneMap API to extract Singapore postal codes, coordinates and travel distance | - | [:link:](https://github.com/kennethleungty/OneMap-API) |
@@ -90,7 +90,7 @@
 
 
 <a name="visualization"></a>
-## Visualization :chart_with_upwards_trend:
+<h3 align="left">:chart_with_upwards_trend: Visualization</h3>
 | Title | Article | Repo |
 | --- | --- | --- |
 | Uniform Singapore Energy Price and Demand Forecast Dashboard (with Plotly Dash) | - | [:link:](https://github.com/kennethleungty/Plotly-Dash-USEP-Dashboard) |
@@ -99,7 +99,7 @@
 
 
 <a name="data-science-tools"></a>
-## Data Science Toolkit :hammer_and_wrench:
+<h3 align="left">:hammer_and_wrench: Data Science Toolkit</h3>
 | Title | Article | Repo |
 | --- | --- | --- |
 | Common Python codes for Data Wrangling | - | [:link:](https://github.com/kennethleungty/Common-Python-Codes) |
@@ -114,7 +114,7 @@
 
 
 <a name="mlops"></a>
-## MLOps - Machine Learning Operations :man_mechanic:
+<h3 align="left">:man_mechanic: MLOps - Machine Learning Operations</h3>
 | Title | Article | Repo |
 | --- | --- | --- |
 | Key Learning Points from MLOps Specialization — Course 1/4 | [:link:](https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752?sk=3d1215fd0a562af6f74033a13fa05107) | [:link:](https://github.com/kennethleungty/MLOps-Specialization-Notes/tree/main/1.%20Introduction%20to%20Machine%20Learning%20in%20Production) |
@@ -127,7 +127,7 @@
 
 
 <a name="web-development"></a>
-## Web Development :desktop_computer:
+<h3 align="left">:desktop_computer: Web Development</h3>
 | Title | Article | Repo |
 | --- | --- | --- |
 | :star: Post COVID-19 Vaccination Wait-Time Tracker (with Python Flask) | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:6822717617636282368/) | [:link:](https://github.com/kennethleungty/Post-Vaccine-Timer) |
