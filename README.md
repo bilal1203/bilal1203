@@ -85,6 +85,27 @@
   </tr>
 </table>
 
+<a name="natural-language-processing"></a>
+<h3 align="left">:bookmark_tabs: Natural Language Processing</h3>
+
+<table>
+  <tr>
+    <th style="width:80%">Title</th>
+    <th style="width:10%">Article</th>
+    <th style="width:10%">Repo</th>
+  </tr>
+  <tr>
+    <td>COVID-19 Vaccine — What’s the Public Sentiment?</td>
+    <td><a href="https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99?sk=614cb3f0f8b00d03240f0e439260e479">🔗</a></td>
+    <td><a href="https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis">🔗</a></td>
+  </tr>
+  <tr>
+    <td>Keyword Extraction and Analysis Pipeline with KeyBERT and Taipy</td>
+    <td><a href="https://towardsdatascience.com/arxiv-keyword-extraction-and-analysis-pipeline-with-keybert-and-taipy-2972e81d9fa4?sk=b45c99c3d1104e3eeea80d9c3fb1a993">🔗</a></td>
+    <td><a href="https://github.com/kennethleungty/Keyword-Analysis-with-KeyBERT-and-Taipy">🔗</a></td>
+  </tr>
+</table>
+
 <a name="machine-learning"></a>
 <h3 align="left">:slot_machine: Machine Learning</h3>
 
