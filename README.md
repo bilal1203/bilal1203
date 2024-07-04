@@ -57,22 +57,20 @@
 <a name="machine-learning"></a>
 <h3 align="left">:slot_machine: Machine Learning</h3>
 
-<div align="center">
-  | Title | Article | Repo |
-  | --- | --- | --- |
-  | Exploring Condominium Rental Prices with Web Scraping and Exploratory Data Analysis | [:link:](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
-  | Using Ensemble Regressors to Predict Condominium Rental Prices | [:link:](https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
-  | The Dying ReLU Problem, Clearly Explained | [:link:](https://towardsdatascience.com/the-dying-relu-problem-clearly-explained-42d0c54e0d24?sk=44114ea1d3f153c69a6c846806299447) | - |
-  | Why Bootstrapping Actually Works | [:link:](https://towardsdatascience.com/why-bootstrapping-actually-works-1e75640cf172?sk=fb4234ee543cec688b9fcc56560dcd27) | - |
-  | :star: Assumptions of Logistic Regression, Clearly Explained | [:link:](https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290?sk=02e66433ea855897d8164e5027866137) | [:link:](https://github.com/kennethleungty/Logistic-Regression-Assumptions) |
-  | Data-Centric AI Competition - Tips and Tricks of a Top 5% Finish | [:link:](https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e?sk=540ba74bd77f36016beb73f59fb58584) | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
-  | Credit Card Fraud Detection with AutoXGB | [:link:](https://towardsdatascience.com/autoxgb-for-financial-fraud-detection-f88f30d4734a?sk=13bbbe9761698db8d4c0ffef661db916)| [:link:](https://github.com/kennethleungty/Credit-Card-Fraud-Detection-AutoXGB) |
-  | :star: Micro, Macro & Weighted Averages of F1 Score, Clearly Explained | [:link:](https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f?sk=e319c91bebb43b90a1e9cd2bcfce311d) | - |
-  | Principal Component Regression - Clearly Explained and Implemented | [:link:](https://towardsdatascience.com/principal-component-regression-clearly-explained-and-implemented-608471530a2f?sk=60a7d1ed57b94e744dff1bb356a9e986) | [:link:](https://github.com/kennethleungty/Principal-Component-Regression) |
-  | :star: Feature Selection with Simulated Annealing in Python, Clearly Explained | [:link:](https://towardsdatascience.com/feature-selection-with-simulated-annealing-in-python-clearly-explained-1808db14f8fa?sk=4b74f6b1e9143f6b3066dd1b5980c2d4) | [:link:](https://github.com/kennethleungty/Simulated-Annealing-Feature-Selection) |
-  | Quick Primer on Types of Missing Data and Imputation Techniques | [:link:](https://medium.com/geekculture/quick-primer-on-types-of-missing-data-and-imputation-techniques-cf253ce88755?sk=efe876f9c0d658a326ad4520bc5076e7) | - |
-  | Imputation of Missing Data in Tables with DataWig | [:link:](https://towardsdatascience.com/imputation-of-missing-data-in-tables-with-datawig-2d7ab327ece2?sk=0462569e9e01e3c9681c985631ca3b51) | [:link:](https://github.com/kennethleungty/DataWig-Missing-Data-Imputation) |
-</div>
+| Title | Article | Repo |
+| --- | --- | --- |
+| Exploring Condominium Rental Prices with Web Scraping and Exploratory Data Analysis | [:link:](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
+| Using Ensemble Regressors to Predict Condominium Rental Prices | [:link:](https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
+| The Dying ReLU Problem, Clearly Explained | [:link:](https://towardsdatascience.com/the-dying-relu-problem-clearly-explained-42d0c54e0d24?sk=44114ea1d3f153c69a6c846806299447) | - |
+| Why Bootstrapping Actually Works | [:link:](https://towardsdatascience.com/why-bootstrapping-actually-works-1e75640cf172?sk=fb4234ee543cec688b9fcc56560dcd27) | - |
+| :star: Assumptions of Logistic Regression, Clearly Explained | [:link:](https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290?sk=02e66433ea855897d8164e5027866137) | [:link:](https://github.com/kennethleungty/Logistic-Regression-Assumptions) |
+| Data-Centric AI Competition - Tips and Tricks of a Top 5% Finish | [:link:](https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e?sk=540ba74bd77f36016beb73f59fb58584) | [:link:](https://github.com/kennethleungty/Data-Centric-AI-Competition) |
+| Credit Card Fraud Detection with AutoXGB | [:link:](https://towardsdatascience.com/autoxgb-for-financial-fraud-detection-f88f30d4734a?sk=13bbbe9761698db8d4c0ffef661db916)| [:link:](https://github.com/kennethleungty/Credit-Card-Fraud-Detection-AutoXGB) |
+| :star: Micro, Macro & Weighted Averages of F1 Score, Clearly Explained | [:link:](https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f?sk=e319c91bebb43b90a1e9cd2bcfce311d) | - |
+| Principal Component Regression - Clearly Explained and Implemented | [:link:](https://towardsdatascience.com/principal-component-regression-clearly-explained-and-implemented-608471530a2f?sk=60a7d1ed57b94e744dff1bb356a9e986) | [:link:](https://github.com/kennethleungty/Principal-Component-Regression) |
+| :star: Feature Selection with Simulated Annealing in Python, Clearly Explained | [:link:](https://towardsdatascience.com/feature-selection-with-simulated-annealing-in-python-clearly-explained-1808db14f8fa?sk=4b74f6b1e9143f6b3066dd1b5980c2d4) | [:link:](https://github.com/kennethleungty/Simulated-Annealing-Feature-Selection) |
+| Quick Primer on Types of Missing Data and Imputation Techniques | [:link:](https://medium.com/geekculture/quick-primer-on-types-of-missing-data-and-imputation-techniques-cf253ce88755?sk=efe876f9c0d658a326ad4520bc5076e7) | - |
+| Imputation of Missing Data in Tables with DataWig | [:link:](https://towardsdatascience.com/imputation-of-missing-data-in-tables-with-datawig-2d7ab327ece2?sk=0462569e9e01e3c9681c985631ca3b51) | [:link:](https://github.com/kennethleungty/DataWig-Missing-Data-Imputation) |
 
 
 <a name="natural-language-processing"></a>
