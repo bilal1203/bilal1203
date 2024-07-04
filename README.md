@@ -29,23 +29,30 @@
 
 - 📫 Connect with me on LinkedIn or explore my portfolio to delve deeper into my projects and insights. Looking forward to connecting and exchanging ideas!
 
-<be>
+<br>
 
 ----
 
 <h3 align="left">📜 Portfolio Contents</h3>
 
+5. [Machine Learning](#machine-learning)
+7. [Natural Language Processing](#natural-language-processing)
 1. [Database Management](#database)
 2. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
-3. [Data Science Toolkit](#data-science-tools)
-4. [Data Science in the Real World](#real-world-data-science)
-5. [Machine Learning](#machine-learning)
-6. [MLOps](#mlops)
-7. [Natural Language Processing](#natural-language-processing)
 8. [Visualization](#visualization)
+3. [Data Science Toolkit](#data-science-tools)
+6. [MLOps](#mlops)
 9. [Web Development](#web-development)
 
 **Projects with :star: are my personal favourites, so do check them out!**
+
+----
+
+<h3 align="left">💻 Skills</h3>
+
+----
+
+<h3 align="left">🎓 Certifications</h3>
 
 ----
 
@@ -84,10 +91,16 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal1203&theme=algolia&no-frame=true&margin-h=15&margin-w=15&column=8" alt="bilal_1203" /></a> </p>
 
+<!--
 ----
+
+<h3 align="left">👽 Visitors</h3>
 
 Counting of visitors to this page in this section started from July 3, 2024
 
 <img src="https://count.getloli.com/get/@bilal1203.github.readme?theme=moebooru" alt="Visitors" />
+
+<br>
+-->
 
 [![MasterHead](assets/languages.png)](https://bilal1203.github.io)
