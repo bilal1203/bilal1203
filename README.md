@@ -33,7 +33,7 @@
 
 ----
 
-<h3 align="left">📜 Portfolio Contents</h3>
+<h2 align="left">📜 Portfolio Contents</h2>
 
 1. [Machine Learning](#machine-learning)
 2. [Natural Language Processing](#natural-language-processing)
@@ -136,15 +136,15 @@
 
 ----
 
-<h3 align="left">💻 Skills</h3>
+<h2 align="left">💻 Skills</h2>
 
 ----
 
-<h3 align="left">🎓 Certifications</h3>
+<h2 align="left">🎓 Certifications</h2>
 
 ----
 
-<h3 align="left">📊 GitHub Analytics</h3>
+<h2 align="left">📊 GitHub Analytics</h2>
 
 <br>
 
@@ -158,7 +158,7 @@
 
 ----
 
-<h3 align="left">🔥 GitHub Streak</h3>
+<h2 align="left">🔥 GitHub Streak</h2>
 
 <br>
 
@@ -174,13 +174,13 @@
 -->
 ----
 
-<h3 align="left">🏆 Trophies</h3>
+<h2 align="left">🏆 Trophies</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal1203&theme=algolia&no-frame=true&margin-h=15&margin-w=15&column=8" alt="bilal_1203" /></a> </p>
 
 ----
 
-<h3 align="left">🍺 Support Me</h3>
+<h2 align="left">🍺 Support Me</h2>
 <div align="center">
   <a href="https://contra.com/ahmadbilalchohan_rfq5nlgc"><img src="https://contra.com/static/embed/media/hiremeoncontra-dark.png" alt="Hire me on Contra" height="50" width="210" /></a>
 </div>
@@ -190,7 +190,7 @@
 <!--
 ----
 
-<h3 align="left">👽 Visitors</h3>
+<h2 align="left">👽 Visitors</h2>
 
 Counting of visitors to this page in this section started from July 3, 2024
 
