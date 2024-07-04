@@ -57,6 +57,37 @@
 <a name="machine-learning"></a>
 <h3 align="left">:slot_machine: Machine Learning</h3>
 
+<table>
+  <tr>
+    <th style="width:80%">Title</th>
+    <th style="width:10%">Article</th>
+    <th style="width:10%">Repo</th>
+  </tr>
+  <tr>
+    <td>Exploring Condominium Rental Prices with Web Scraping and Exploratory Data Analysis</td>
+    <td><a href="https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19">🔗</a></td>
+    <td><a href="https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis">🔗</a></td>
+  </tr>
+  <tr>
+    <td>Using Ensemble Regressors to Predict Condominium Rental Prices</td>
+    <td><a href="https://medium.com/geekculture/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9">🔗</a></td>
+    <td><a href="https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis">🔗</a></td>
+  </tr>
+  <tr>
+    <td>The Dying ReLU Problem, Clearly Explained</td>
+    <td><a href="https://towardsdatascience.com/the-dying-relu-problem-clearly-explained-42d0c54e0d24?sk=44114ea1d3f153c69a6c846806299447">🔗</a></td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Why Bootstrapping Actually Works</td>
+    <td><a href="https://towardsdatascience.com/why-bootstrapping-actually-works-1e75640cf172?sk=fb4234ee543cec688b9fcc56560dcd27">🔗</a></td>
+    <td>-</td>
+  </tr>
+</table>
+
+<a name="machine-learning"></a>
+<h3 align="left">:slot_machine: Machine Learning</h3>
+
 | Title | Article | Repo |
 | --- | --- | --- |
 | Exploring Condominium Rental Prices with Web Scraping and Exploratory Data Analysis | [:link:](https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19) | [:link:](https://github.com/kennethleungty/Singapore-Condo-Rental-Market-Analysis) |
