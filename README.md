@@ -94,7 +94,7 @@
 
 <h3 align="left">🍺 Support Me</h3>
 <div align="center">
-  <a href=""><img src="https://contra.com/static/embed/media/hiremeoncontra-dark.png" alt="Hire me on Contra" height="50" width="210" /></a>
+  <a href="https://contra.com/ahmadbilalchohan_rfq5nlgc"><img src="https://contra.com/static/embed/media/hiremeoncontra-dark.png" alt="Hire me on Contra" height="50" width="210" /></a>
 </div>
 
 <br><br>
