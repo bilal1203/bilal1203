@@ -35,18 +35,17 @@
 
 <h3 align="left">📜 Portfolio Contents</h3>
 
-5. [Machine Learning](#machine-learning)
-7. [Natural Language Processing](#natural-language-processing)
-1. [Database Management](#database)
-2. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
-8. [Visualization](#visualization)
-3. [Data Science Toolkit](#data-science-tools)
-6. [MLOps](#mlops)
-9. [Web Development](#web-development)
+1. [Machine Learning](#machine-learning)
+2. [Natural Language Processing](#natural-language-processing)
+3. [Database Management](#database)
+4. [Data Extraction and Web Scraping](#data-extraction-and-web-scraping)
+5. [Visualization](#visualization)
+6. [Data Science Toolkit](#data-science-tools)
+7. [MLOps](#mlops)
+8. [Web Development](#web-development)
 
 **Projects with :star: are my personal favourites, so do check them out!**
 
-----
 <a name="machine-learning"></a>
 ## Machine Learning :slot_machine:
 | Title | Article | Repo |
@@ -64,7 +63,7 @@
 | Quick Primer on Types of Missing Data and Imputation Techniques | [:link:](https://medium.com/geekculture/quick-primer-on-types-of-missing-data-and-imputation-techniques-cf253ce88755?sk=efe876f9c0d658a326ad4520bc5076e7) | - |
 | Imputation of Missing Data in Tables with DataWig | [:link:](https://towardsdatascience.com/imputation-of-missing-data-in-tables-with-datawig-2d7ab327ece2?sk=0462569e9e01e3c9681c985631ca3b51) | [:link:](https://github.com/kennethleungty/DataWig-Missing-Data-Imputation) |
 
-----
+
 <a name="natural-language-processing"></a>
 ## Natural Language Processing :bookmark_tabs:
 | Title | Article | Repo |
@@ -72,7 +71,7 @@
 | COVID-19 Vaccine — What’s the Public Sentiment? | [:link:](https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99?sk=614cb3f0f8b00d03240f0e439260e479) | [:link:](https://github.com/kennethleungty/COVID19-Vaccine-Sentiment-Analysis) |
 | Keyword Extraction and Analysis Pipeline with KeyBERT and Taipy | [:link:](https://towardsdatascience.com/arxiv-keyword-extraction-and-analysis-pipeline-with-keybert-and-taipy-2972e81d9fa4?sk=b45c99c3d1104e3eeea80d9c3fb1a993) | [:link:](https://github.com/kennethleungty/Keyword-Analysis-with-KeyBERT-and-Taipy) |
 
-----
+
 <a name="database"></a>
 ## Database Management :file_cabinet:   
 | Title | Article | Repo |
@@ -80,7 +79,7 @@
 | :star: Definitive Guide to Creating a SQL Database on Cloud with AWS and Python | [:link:](https://towardsdatascience.com/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2?sk=be354d077fffa25b2eb1e59dd1dd1d94) | [:link:](https://github.com/kennethleungty/AWS-RDS-MySQL-Python) | 
 | PyMySQL - Connecting Python and SQL for Data Science | [:link:](https://towardsdatascience.com/pymysql-connecting-python-and-sql-for-data-science-91e7582d21d7?sk=d450443e2e74f1c8b5d7d3820d1e9202) | [:link:](https://github.com/kennethleungty/PyMySQL-Demo) | 
 
-----
+
 <a name="data-extraction-and-web-scraping"></a>
 ## Data Extraction and Web Scraping :toolbox:
 | Title | Article | Repo |
@@ -89,7 +88,7 @@
 | A Detailed Web Scraping Walkthrough Using Python and Selenium | [:link:](https://medium.com/swlh/web-scrapping-healthcare-professionals-information-1372385d639d?sk=a1acd77dc36b84a1446fa4106831d15d) | [:link:](https://github.com/kennethleungty/Web-Scraping-Walkthrough-HCP-Info) |
 | :star: How to Web Scrape Wikipedia using LangChain Agents and Tools with OpenAI's LLMs and Function Calling | [🔗](https://medium.datadriveninvestor.com/how-to-web-scrape-wikipedia-using-llm-agents-f0dba8400692?sk=890b6e9281596573274cfe407ffe5f87)| [:link:](https://github.com/kennethleungty/Wikipedia-Scraping-with-LLM-Agents) |
 
-----
+
 <a name="visualization"></a>
 ## Visualization :chart_with_upwards_trend:
 | Title | Article | Repo |
@@ -98,7 +97,7 @@
 | Visualizing Fortune 500 Companies in a Bar Chart Race | [:link:](https://towardsdatascience.com/the-fortune-500-bar-chart-race-9612dc9d0e63?sk=6ac0cffbe15e0d152bed9b6440c78a24) | [:link:](https://github.com/kennethleungty/Fortune-Global-500-Bar-Chart-Race) |
 | How to Easily Draw Neural Network Architecture Diagrams | [:link:](https://towardsdatascience.com/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875?sk=89e9e58c0b0c2e47525051f5f88d4048) | [:link:](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams) |
 
-----
+
 <a name="data-science-tools"></a>
 ## Data Science Toolkit :hammer_and_wrench:
 | Title | Article | Repo |
@@ -113,7 +112,7 @@
 | Top Tips to Google Search Like a Seasoned Data Scientist | [:link:](https://towardsdatascience.com/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae?sk=710f416b4c7c329ee084c54ec67abf0a) | - |
 | How to Swap Day and Month of Incorrectly Formatted Excel Dates | [:link:](https://medium.datadriveninvestor.com/how-to-swap-day-and-month-of-incorrectly-formatted-excel-dates-503dfc7ad7da?sk=1b7154a961c4dd8a1ab0ef791a3922fc) | - |
 
-----
+
 <a name="mlops"></a>
 ## MLOps - Machine Learning Operations :man_mechanic:
 | Title | Article | Repo |
@@ -126,7 +125,7 @@
 | :star: How to Dockerize Machine Learning Applications Built with H2O, MLflow, FastAPI, and Streamlit | [:link:](https://towardsdatascience.com/how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5?sk=3ac7a613f10b42e9fbc0c395d7d529af) | [:link:](https://github.com/kennethleungty/End-to-End-AutoML-Insurance) |
 | :star: Building and Managing an Isolation Forest Anomaly Detection Pipeline with Kedro | [:link:](https://neptune.ai/blog/data-science-pipelines-with-kedro) | [:link:](https://github.com/kennethleungty/Anomaly-Detection-Pipeline-Kedro) |
 
-----
+
 <a name="web-development"></a>
 ## Web Development :desktop_computer:
 | Title | Article | Repo |
