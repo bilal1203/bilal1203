@@ -41,7 +41,7 @@
 
 | Title | Article |
 | --- | --- |
-| DataCamp Certifications ![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F) | [:link:](https://github.com) |
+| DataCamp Certifications  &nbsp;&nbsp;&nbsp;&nbsp; ![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F) | [:link:](https://github.com) |
 
 ----
 
