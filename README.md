@@ -64,9 +64,9 @@
 
 | Title | Article | Repo |
 | --- | --- | --- |
-| **Comprehensive Comparison of Supervised Learning Classification Algorithms on the Space Titanic Dataset (Kaggle Competition Dataset)** | - | [:link:](https://github.com/bilal1203/Supervised-Learning-Classification-Algorithms-Implementation) |
-| **Clustering Manufacturing Control States with Unsupervised and Semi-Supervised Learning Algorithms (Kaggle Competition Dataset)** | - | [:link:](https://github.com/bilal1203/Unsupervised-Learning-Clustering-Challange) |
-| **Comprehensive Comparison of Supervised Learning Regression Algorithms for House Price Prediction (Kaggle Competition Dataset)** | - | [:link:](https://github.com/bilal1203/Supervised-Learning-Regression-Algorithms-Implementation) |
+| Comprehensive Comparison of **Supervised Learning Classification Algorithms** on the Space Titanic Dataset (Kaggle Competition Dataset) | - | [:link:](https://github.com/bilal1203/Supervised-Learning-Classification-Algorithms-Implementation) |
+| Clustering Manufacturing Control States with **Unsupervised and Semi-Supervised Learning Algorithms** (Kaggle Competition Dataset) | - | [:link:](https://github.com/bilal1203/Unsupervised-Learning-Clustering-Challange) |
+| Comprehensive Comparison of **Supervised Learning Regression Algorithms** for House Price Prediction (Kaggle Competition Dataset) | - | [:link:](https://github.com/bilal1203/Supervised-Learning-Regression-Algorithms-Implementation) |
 
 <a name="natural-language-processing"></a>
 <h3 align="left">:bookmark_tabs: Natural Language Processing</h3>
