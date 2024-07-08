@@ -15,7 +15,7 @@
 
 <br>
   
-<img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
+<img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" style="margin: 10px;" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bilal1203&label=Profile%20Views&color=295564&style=flat&abbreviated=true" alt="bilal1203" /> 
